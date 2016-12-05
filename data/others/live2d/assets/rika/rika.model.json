@@ -1,0 +1,26 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"rika.moc",
+	"textures":[
+		"rika.2048/texture_00.png"
+	],
+	"motions":{
+		"idle":[
+			{"file":"motions/haru_idle_01.mtn"},
+			{"file":"motions/haru_idle_02.mtn"},
+			{"file":"motions/haru_idle_03.mtn"}
+		],
+		"":[
+			{"file":"motions/haru_m_01.mtn"},
+			{"file":"motions/haru_m_02.mtn"},
+			{"file":"motions/haru_m_03.mtn"},
+			{"file":"motions/haru_m_04.mtn"},
+			{"file":"motions/haru_m_05.mtn"},
+			{"file":"motions/haru_m_06.mtn"},
+			{"file":"motions/haru_m_07.mtn"},
+			{"file":"motions/haru_m_08.mtn"},
+			{"file":"motions/haru_m_09.mtn"},
+			{"file":"motions/haru_m_10.mtn"}
+		]
+	}
+}
