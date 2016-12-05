@@ -12,9 +12,6 @@
 
 
 [tb_hide_message_window  ]
-[glink  color="blue"  storage="scene1.ks"  size="20"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  ]
 [glink  color="orange"  storage="scene1.ks"  size="16"  text="モーション1"  x="20"  y="480"  width="100"  height="20"  _clickable_img=""  target="*m1"  ]
 [glink  color="orange"  storage="scene1.ks"  size="16"  text="モーション2"  width="100"  height="20"  y="480"  x="210"  _clickable_img=""  target="*m2"  ]
 [glink  color="orange"  storage="scene1.ks"  size="16"  text="モーション3"  width="100"  height="20"  y="480"  x="400"  _clickable_img=""  target="*m3"  ]
@@ -110,7 +107,6 @@
 [wait time=1500]
 [live2d_color name="rika" red=0.6 green=0.3 blue=0.3]
 [wait time=1500]
-; haruを元の色に戻す
 [live2d_color name="rika" red=1.0 green=1.0 blue=1.0]
 [_tb_end_tyrano_code]
 
